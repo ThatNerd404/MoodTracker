@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDlv-14nUOcMYbAXKQWP9C4JsSo7e_gZqM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>683177683003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>genie.MoodTracker</string>
+	<key>PROJECT_ID</key>
+	<string>mood-tracker-vishnu-yadali</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mood-tracker-vishnu-yadali.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:683177683003:ios:ac63b96b2e65bfb2ca141e</string>
+</dict>
+</plist>
